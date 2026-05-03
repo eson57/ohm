@@ -59,6 +59,7 @@ OTHER_FILES += \
     qml/pages/s-video.qml \
     qml/pages/ps2.qml \
     qml/pages/vga_pins.qml \
+    qml/pages/scart_pins.qml \
     qml/pages/usb_pins.qml \
     qml/pages/db25_pins.qml \
     qml/pages/rj45_pins.qml \
@@ -100,6 +101,7 @@ OTHER_FILES += \
     qml/img/midi_male.png \
     qml/img/midi_female.png \
     qml/img/ps2.png \
+    qml/img/scart_female.png \
     harbour-ohm.desktop \
     translations/*.ts \
     rpm/harbour-ohm.spec

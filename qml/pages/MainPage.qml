@@ -77,6 +77,12 @@ Page {
                 icon: "../img/vga_icon.png"
             }
             ListElement {
+                page: "scart_pins.qml"
+                title: qsTr("SCART")
+                section: "Connector Pin Assignments"
+                icon: "../img/scart_icon.png"
+            }
+            ListElement {
                 page: "serial_pins.qml"
                 title: qsTr("DB-9")
                 section: "Connector Pin Assignments"
