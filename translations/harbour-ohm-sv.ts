@@ -79,7 +79,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="81"/>
         <source>SCART</source>
-        <translation type="unfinished"></translation>
+        <translation>SCART</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="87"/>
@@ -1137,7 +1137,7 @@
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="12"/>
         <source>PIN 1</source>
-        <translation type="unfinished">STIFT 1</translation>
+        <translation>STIFT 1</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="13"/>
@@ -1147,52 +1147,52 @@
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="14"/>
         <source>Audio Output (R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud ut (H)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="15"/>
         <source>Audio Output right 0.5V / 1K-ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud utdata höger 0,5V / 1kΩ</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="18"/>
         <source>PIN 2</source>
-        <translation type="unfinished">STIFT 2</translation>
+        <translation>STIFT 2</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="19"/>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyan</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="20"/>
         <source>Audio Input (R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud in (H)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="21"/>
         <source>Audio Input right 0.5V / 10K-ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud indata höger 0,5V / 10kΩ</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="24"/>
         <source>PIN 3</source>
-        <translation type="unfinished">STIFT 3</translation>
+        <translation>STIFT 3</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="26"/>
         <source>Audio Output (L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud ut (V)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="27"/>
         <source>Audio Output left 0.5V / 1K-ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud utdata vänster 0,5V / 1kΩ</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="30"/>
         <source>PIN 4</source>
-        <translation type="unfinished">STIFT 4</translation>
+        <translation>STIFT 4</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="31"/>
@@ -1203,301 +1203,301 @@
         <location filename="../qml/pages/scart_pins.qml" line="115"/>
         <location filename="../qml/pages/scart_pins.qml" line="133"/>
         <source>Black</source>
-        <translation type="unfinished">Svart</translation>
+        <translation>Svart</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="32"/>
         <source>Audio Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="33"/>
         <source>pins 1, 2, 3 &amp; 6 ground</source>
-        <translation type="unfinished"></translation>
+        <translation>STIFT 1, 2, 3 &amp; 6 jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="36"/>
         <source>PIN 5</source>
-        <translation type="unfinished">STIFT 5</translation>
+        <translation>STIFT 5</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="38"/>
         <source>Blue Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>Blå jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="39"/>
         <source>pin 7 ground</source>
-        <translation type="unfinished"></translation>
+        <translation>STIFT 7 jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="42"/>
         <source>PIN 6</source>
-        <translation type="unfinished">STIFT 6</translation>
+        <translation>STIFT 6</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="43"/>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Rosa</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="44"/>
         <source>Audio Input (L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud in (V)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="45"/>
         <source>Audio Input left 0.5V / 10K-ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud utdata vänster 0,5V / 10kΩ</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="48"/>
         <source>PIN 7</source>
-        <translation type="unfinished">STIFT 7</translation>
+        <translation>STIFT 7</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="49"/>
         <location filename="../qml/pages/scart_pins.qml" line="50"/>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blå</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="51"/>
         <source>Blue color</source>
-        <translation type="unfinished"></translation>
+        <translation>Blå färg</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="54"/>
         <source>PIN 8</source>
-        <translation type="unfinished">STIFT 8</translation>
+        <translation>STIFT 8</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="55"/>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Gul</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="56"/>
         <source>Status &amp; Aspect Ratio up</source>
-        <translation type="unfinished"></translation>
+        <translation>Status och bildförhållande upp</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="57"/>
         <source>L:0-2V H:10 - 12V / 10K-ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>L:0-2V H:10 - 12V / 10kΩ</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="60"/>
         <source>PIN 9</source>
-        <translation type="unfinished">STIFT 9</translation>
+        <translation>STIFT 9</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="62"/>
         <location filename="../qml/pages/scart_pins.qml" line="63"/>
         <source>Green ground</source>
-        <translation type="unfinished"></translation>
+        <translation>Grön jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="66"/>
         <source>PIN 10</source>
-        <translation type="unfinished">STIFT 10</translation>
+        <translation>STIFT 10</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="68"/>
         <source>Data D2B (Inverted)</source>
-        <translation type="unfinished"></translation>
+        <translation>Data D2B (Inverterad)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="69"/>
         <source>Clock/Data 2 Control bus (AV.link)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klocka/Data 2 Control bus (AV.länk)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="72"/>
         <source>PIN 11</source>
-        <translation type="unfinished">STIFT 11</translation>
+        <translation>STIFT 11</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="73"/>
         <location filename="../qml/pages/scart_pins.qml" line="74"/>
         <source>Green</source>
-        <translation type="unfinished">Grön</translation>
+        <translation>Grön</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="75"/>
         <source>Component Y, 0.7Vp-p / 75 ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent Y, 0.7Vp-p / 75Ω</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="78"/>
         <source>PIN 12</source>
-        <translation type="unfinished">STIFT 12</translation>
+        <translation>STIFT 12</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="80"/>
         <source>Data D2B</source>
-        <translation type="unfinished"></translation>
+        <translation>Data D2B</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="81"/>
         <source>Reserved / Data 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reserverad / Data 1</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="84"/>
         <source>PIN 13</source>
-        <translation type="unfinished">STIFT 13</translation>
+        <translation>STIFT 13</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="86"/>
         <source>Red ground</source>
-        <translation type="unfinished"></translation>
+        <translation>Röd jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="87"/>
         <source>pin 15 ground</source>
-        <translation type="unfinished"></translation>
+        <translation>STIFT 15 jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="90"/>
         <source>PIN 14</source>
-        <translation type="unfinished">STIFT 14</translation>
+        <translation>STIFT 14</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="92"/>
         <source>D2B Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>D2B jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="93"/>
         <source>pins 8, 10 &amp; 12 ground</source>
-        <translation type="unfinished"></translation>
+        <translation>STIFT 8, 10 &amp; 12 jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="96"/>
         <source>PIN 15</source>
-        <translation type="unfinished">STIFT 15</translation>
+        <translation>STIFT 15</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="97"/>
         <location filename="../qml/pages/scart_pins.qml" line="98"/>
         <source>Red</source>
-        <translation type="unfinished">Röd</translation>
+        <translation>Röd</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="99"/>
         <source>S-Video C/Component PR</source>
-        <translation type="unfinished"></translation>
+        <translation>S-Video C/Komponent PR</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="102"/>
         <source>PIN 16</source>
-        <translation type="unfinished">STIFT 16</translation>
+        <translation>STIFT 16</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="103"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Orange</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="104"/>
         <source>RGB Status/Fast Blanking</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB-status/Snabb blankning</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="105"/>
         <source>L:0-0.4V H:1-3V / 75 ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>L:0-0.4V H:1-3V / 75Ω</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="108"/>
         <source>PIN 17</source>
-        <translation type="unfinished">STIFT 17</translation>
+        <translation>STIFT 17</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="110"/>
         <source>CVBS Video Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>CVBS Video jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="111"/>
         <source>Composite video ground (pin 19 &amp; 20 ground)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompositvideo jord (stift 19 &amp; 20 jord)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="114"/>
         <source>PIN 18</source>
-        <translation type="unfinished">STIFT 18</translation>
+        <translation>STIFT 18</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="116"/>
         <source>RGB Status Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB-status jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="117"/>
         <source>Blanking signal ground (pin 16 ground)</source>
-        <translation type="unfinished"></translation>
+        <translation>Blankning signaljord (stift 16 jord)</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="120"/>
         <source>PIN 19</source>
-        <translation type="unfinished">STIFT 19</translation>
+        <translation>STIFT 19</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="122"/>
         <source>Composite Video Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompositvideo ut</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="123"/>
         <source>S-Video Y output, 1V / 75 ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>S-Video Y utdata, 1V / 75Ω</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="126"/>
         <source>PIN 20</source>
-        <translation type="unfinished">STIFT 20</translation>
+        <translation>STIFT 20</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="127"/>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Grå</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="128"/>
         <source>Composite Video Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompositvideo in</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="129"/>
         <source>S-Video Y input, 1V / 75 ohm</source>
-        <translation type="unfinished"></translation>
+        <translation>S-Video Y indata, 1V / 75Ω</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="132"/>
         <source>PIN 21</source>
-        <translation type="unfinished">STIFT 21</translation>
+        <translation>STIFT 21</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="134"/>
         <source>Case Shield</source>
-        <translation type="unfinished"></translation>
+        <translation>Skyddshölje</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="135"/>
         <source>Common ground</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemensam jord</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="144"/>
         <source>SCART/EXT/EuroAV pin assignments</source>
-        <translation type="unfinished"></translation>
+        <translation>SCART/EXT/EuroAV stifttilldelning</translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="155"/>
         <source>Female connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Honanslutning</translation>
     </message>
 </context>
 <context>
