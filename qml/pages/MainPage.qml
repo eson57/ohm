@@ -118,6 +118,12 @@ Page {
                 section: "Connector Pin Assignments"
                 icon: "../img/midi_male.png"
             }
+            ListElement {
+                page: "iso11446.qml"
+                title: qsTr("ISO 11446")
+                section: "Connector Pin Assignments"
+                icon: "../img/ISO11446.png"
+            }
         }
     }
 

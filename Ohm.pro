@@ -8,20 +8,7 @@
 #         - icon definition filename in desktop file must be changed
 TARGET = harbour-ohm
 
-#CONFIG += sailfishapp
-# Start of temporary fix for the icon for the Nov 2013 harbour requirements
-# QML files and folders
-QT += quick qml
-CONFIG += link_pkgconfig
-PKGCONFIG += sailfishapp
-INCLUDEPATH += /usr/include/sailfishapp
-
-TARGETPATH = /usr/bin
-target.path = $$TARGETPATH
-
-DEPLOYMENT_PATH = /usr/share/$$TARGET
-qml.files = qml
-qml.path = $$DEPLOYMENT_PATH
+CONFIG += sailfishapp_qml
 
 desktop.files = harbour-ohm.desktop
 desktop.path = /usr/share/applications
@@ -43,10 +30,6 @@ icon256.path = /usr/share/icons/hicolor/256x256/apps
 
 INSTALLS += icon86 icon108 icon128 icon172 icon256
 
-INSTALLS += target desktop qml
-
-SOURCES += src/Ohm.cpp
-
 OTHER_FILES += \
     qml/pages/MainPage.qml \
     qml/pages/resistorcolor.qml \
@@ -66,6 +49,7 @@ OTHER_FILES += \
     qml/pages/dipswitch.qml \
     qml/pages/serial_pins.qml \
     qml/pages/midi.qml \
+    qml/pages/iso11446.qml \
     qml/pages/components/PinsDetails.qml \
     qml/harbour-ohm.qml \
     qml/img/capacitor.png \
@@ -102,6 +86,7 @@ OTHER_FILES += \
     qml/img/midi_female.png \
     qml/img/ps2.png \
     qml/img/scart_female.png \
+    qml/img/ISO11446.png \
     harbour-ohm.desktop \
     translations/*.ts \
     rpm/harbour-ohm.spec

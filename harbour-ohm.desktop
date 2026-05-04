@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Name=Ohm
 Icon=harbour-ohm
-Exec=harbour-ohm
+Exec=sailfish-qml harbour-ohm
+Name=Ohm
 
 [X-Sailjail]
 OrganizationName=org.thesignal
