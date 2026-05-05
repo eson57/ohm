@@ -43,6 +43,8 @@ OTHER_FILES += \
     qml/pages/ps2.qml \
     qml/pages/vga_pins.qml \
     qml/pages/scart_pins.qml \
+    qml/pages/hdmi_pins.qml \
+    qml/pages/displayport_pins.qml \
     qml/pages/usb_pins.qml \
     qml/pages/db25_pins.qml \
     qml/pages/rj45_pins.qml \
@@ -86,6 +88,8 @@ OTHER_FILES += \
     qml/img/midi_female.png \
     qml/img/ps2.png \
     qml/img/scart_female.png \
+    qml/img/hdmi_female.png \
+    qml/img/displayport_female.png \
     qml/img/ISO11446.png \
     harbour-ohm.desktop \
     translations/*.ts \

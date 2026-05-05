@@ -83,6 +83,18 @@ Page {
                 icon: "../img/scart_icon.png"
             }
             ListElement {
+                page: "hdmi_pins.qml"
+                title: qsTr("HDMI")
+                section: "Connector Pin Assignments"
+                icon: "../img/hdmi_female.png"
+            }
+            ListElement {
+                page: "displayport_pins.qml"
+                title: qsTr("DisplayPort")
+                section: "Connector Pin Assignments"
+                icon: "../img/displayport_female.png"
+            }
+            ListElement {
                 page: "serial_pins.qml"
                 title: qsTr("DB-9")
                 section: "Connector Pin Assignments"

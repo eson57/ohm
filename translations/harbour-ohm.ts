@@ -83,41 +83,51 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="87"/>
-        <source>DB-9</source>
+        <source>HDMI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="93"/>
-        <source>DB-25</source>
+        <source>DisplayPort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="99"/>
-        <source>RJ-45</source>
+        <source>DB-9</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="105"/>
-        <source>S-Video</source>
+        <source>DB-25</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="111"/>
-        <source>PS/2</source>
+        <source>RJ-45</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="117"/>
-        <source>MIDI</source>
+        <source>S-Video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="123"/>
+        <source>PS/2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="129"/>
+        <source>MIDI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="135"/>
         <source>ISO 11446</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="147"/>
+        <location filename="../qml/pages/MainPage.qml" line="159"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
@@ -789,6 +799,728 @@
     </message>
 </context>
 <context>
+    <name>displayport_pins</name>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="12"/>
+        <source>PIN 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="13"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="14"/>
+        <source>Main link lane 0 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="15"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="18"/>
+        <source>PIN 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="19"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="20"/>
+        <location filename="../qml/pages/displayport_pins.qml" line="38"/>
+        <location filename="../qml/pages/displayport_pins.qml" line="56"/>
+        <location filename="../qml/pages/displayport_pins.qml" line="74"/>
+        <location filename="../qml/pages/displayport_pins.qml" line="104"/>
+        <source>Ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="21"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="24"/>
+        <source>PIN 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="25"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="26"/>
+        <source>Main link lane 0 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="27"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="30"/>
+        <source>PIN 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="31"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="32"/>
+        <source>Main link lane 1 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="33"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="36"/>
+        <source>PIN 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="37"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="39"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="42"/>
+        <source>PIN 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="43"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="44"/>
+        <source>Main link lane 1 (-)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="45"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="48"/>
+        <source>PIN 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="49"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="50"/>
+        <source>Main link lane 2 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="51"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="54"/>
+        <source>PIN 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="55"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="57"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="60"/>
+        <source>PIN 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="61"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="62"/>
+        <source>Main link lane 2 (-)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="63"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="66"/>
+        <source>PIN 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="67"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="68"/>
+        <source>Main link lane 3 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="69"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="72"/>
+        <source>PIN 11</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="73"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="75"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="78"/>
+        <source>PIN 12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="79"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="80"/>
+        <source>Main link lane 3 (-)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="81"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="84"/>
+        <source>PIN 13</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="85"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="86"/>
+        <source>Cable adaptor detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="87"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="90"/>
+        <source>PIN 14</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="91"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="92"/>
+        <source>CEC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="93"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="96"/>
+        <source>PIN 15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="97"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="98"/>
+        <source>Auxiliary channel (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="99"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="102"/>
+        <source>PIN 16</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="103"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="105"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="108"/>
+        <source>PIN 17</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="109"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="110"/>
+        <source>Auxiliary channel (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="111"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="114"/>
+        <source>PIN 18</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="115"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="116"/>
+        <source>Hot plug detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="117"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="120"/>
+        <source>PIN 19</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="121"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="122"/>
+        <source>Return for power</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="123"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="126"/>
+        <source>PIN 20</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="127"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="128"/>
+        <source>Power (3.3 V 500 mA)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="129"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="138"/>
+        <source>DisplayPort pin assignments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/displayport_pins.qml" line="149"/>
+        <source>Female connector</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>hdmi_pins</name>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="12"/>
+        <source>PIN 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="13"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="19"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="25"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="31"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="37"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="43"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="49"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="55"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="61"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="67"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="73"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="79"/>
+        <source>HDMI 1.0–2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="14"/>
+        <source>TMDS data 2 (+) Data0+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="15"/>
+        <source>HDMI 2.1+: FRL data 2 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="18"/>
+        <source>PIN 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="20"/>
+        <source>TMDS data 2 ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="21"/>
+        <source>HDMI 2.1+: FRL data 2 ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="24"/>
+        <source>PIN 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="26"/>
+        <source>TMDS data 2 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="27"/>
+        <source>HDMI 2.1+: FRL data 2 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="30"/>
+        <source>PIN 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="32"/>
+        <source>TMDS data 1 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="33"/>
+        <source>HDMI 2.1+: FRL data 1 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="36"/>
+        <source>PIN 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="38"/>
+        <source>MDS data 1 ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="39"/>
+        <source>HDMI 2.1+: FRL data 1 ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="42"/>
+        <source>PIN 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="44"/>
+        <source>TMDS data 1 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="45"/>
+        <source>HDMI 2.1+: FRL data 1 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="48"/>
+        <source>PIN 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="50"/>
+        <source>TMDS data 0 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="51"/>
+        <source>HDMI 2.1+: FRL data 0 (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="54"/>
+        <source>PIN 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="56"/>
+        <source>TMDS data 0 ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="57"/>
+        <source>HDMI 2.1+: FRL data 0 ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="60"/>
+        <source>PIN 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="62"/>
+        <source>TMDS data 0 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="63"/>
+        <source>HDMI 2.1+: FRL data 0 (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="66"/>
+        <source>PIN 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="68"/>
+        <source>TMDS clock (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="69"/>
+        <source>HDMI 2.1+: FRL clock (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="72"/>
+        <source>PIN 11</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="74"/>
+        <source>TMDS clock ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="75"/>
+        <source>HDMI 2.1+: FRL clock ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="78"/>
+        <source>PIN 12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="80"/>
+        <source>TMDS clock (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="81"/>
+        <source>HDMI 2.1+: FRL clock (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="84"/>
+        <source>PIN 13</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="85"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="97"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="103"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="109"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="115"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="121"/>
+        <source>HDMI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="86"/>
+        <source>CEC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="87"/>
+        <source>Consumer Electronics Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="90"/>
+        <source>PIN 14</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="91"/>
+        <source>HDMI 1.4–2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="92"/>
+        <source>ARC (+) or HEC (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="93"/>
+        <source>HDMI 2.1+: eARC (+), ARC (+) or HEC (+)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="96"/>
+        <source>PIN 15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="98"/>
+        <source>SCL Clock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="99"/>
+        <location filename="../qml/pages/hdmi_pins.qml" line="105"/>
+        <source>for DDC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="102"/>
+        <source>PIN 16</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="104"/>
+        <source>SDA data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="108"/>
+        <source>PIN 17</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="110"/>
+        <source>Ground for ARC, eARC, CEC, DDC and HEC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="111"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="114"/>
+        <source>PIN 18</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="116"/>
+        <source>+5 V (up to 50 mA)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="117"/>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="120"/>
+        <source>PIN 19</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="122"/>
+        <source>Hot plug detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="123"/>
+        <source>eARC (−), ARC (−) or HEC (−)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="132"/>
+        <source>HDMI pin assignments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/hdmi_pins.qml" line="143"/>
+        <source>Female connector</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>induction</name>
     <message>
         <location filename="../qml/pages/induction.qml" line="25"/>
@@ -1017,7 +1749,7 @@
     <message>
         <location filename="../qml/pages/iso11446.qml" line="76"/>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="79"/>
@@ -1035,11 +1767,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/iso11446.qml" line="82"/>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../qml/pages/iso11446.qml" line="85"/>
         <source>PIN 13</source>
         <translation type="unfinished"></translation>
@@ -1052,11 +1779,6 @@
     <message>
         <location filename="../qml/pages/iso11446.qml" line="87"/>
         <source>Ground for pin 9</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/iso11446.qml" line="88"/>
-        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1414,7 +2136,7 @@
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="13"/>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="14"/>
@@ -1449,11 +2171,6 @@
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="24"/>
         <source>PIN 3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/scart_pins.qml" line="25"/>
-        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1580,11 +2297,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/scart_pins.qml" line="67"/>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../qml/pages/scart_pins.qml" line="68"/>
         <source>Data D2B (Inverted)</source>
         <translation type="unfinished"></translation>
@@ -1616,11 +2328,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/scart_pins.qml" line="79"/>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../qml/pages/scart_pins.qml" line="80"/>
         <source>Data D2B</source>
         <translation type="unfinished"></translation>
@@ -1648,11 +2355,6 @@
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="90"/>
         <source>PIN 14</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/scart_pins.qml" line="91"/>
-        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1734,11 +2436,6 @@
     <message>
         <location filename="../qml/pages/scart_pins.qml" line="120"/>
         <source>PIN 19</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/scart_pins.qml" line="121"/>
-        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
