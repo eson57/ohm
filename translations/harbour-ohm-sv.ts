@@ -114,7 +114,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="123"/>
         <source>ISO 11446</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO 11446 Släpvagnskontakt</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="147"/>
@@ -806,268 +806,258 @@
     <message>
         <location filename="../qml/pages/iso11446.qml" line="12"/>
         <source>PIN 1</source>
-        <translation type="unfinished">STIFT 1</translation>
+        <translation>STIFT 1</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="13"/>
         <source>Yellow</source>
-        <translation type="unfinished">Gul</translation>
+        <translation>Gul</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="14"/>
         <source>Left indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster blinkljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="15"/>
         <source>Sometimes black/white</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland svartvit</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="18"/>
         <source>PIN 2</source>
-        <translation type="unfinished">STIFT 2</translation>
+        <translation>STIFT 2</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="19"/>
         <source>Blue</source>
-        <translation type="unfinished">Blå</translation>
+        <translation>Blå</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="20"/>
         <source>Rear fog lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger dimljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="21"/>
         <location filename="../qml/pages/iso11446.qml" line="57"/>
         <source>Sometimes black/blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland svartblå</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="24"/>
         <source>PIN 3</source>
-        <translation type="unfinished">STIFT 3</translation>
+        <translation>STIFT 3</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="25"/>
         <source>White</source>
-        <translation type="unfinished">Vit</translation>
+        <translation>Vit</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="26"/>
         <source>Ground for pin 1-8</source>
-        <translation type="unfinished"></translation>
+        <translation>Jord för stift 1-8</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="27"/>
         <source>Sometimes brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland brun</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="30"/>
         <source>PIN 4</source>
-        <translation type="unfinished">STIFT 4</translation>
+        <translation>STIFT 4</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="31"/>
         <source>Green</source>
-        <translation type="unfinished">Grön</translation>
+        <translation>Grön</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="32"/>
         <source>Right indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger blinkljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="33"/>
         <source>Sometimes black/green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland svartgrön</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="36"/>
         <source>PIN 5</source>
-        <translation type="unfinished">STIFT 5</translation>
+        <translation>STIFT 5</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="37"/>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Brun</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="38"/>
         <source>Right tail lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger bakljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="39"/>
         <source>Sometimes grey/red</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland gråröd</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="42"/>
         <source>PIN 6</source>
-        <translation type="unfinished">STIFT 6</translation>
+        <translation>STIFT 6</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="43"/>
         <source>Red</source>
-        <translation type="unfinished">Röd</translation>
+        <translation>Röd</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="44"/>
         <source>Brake lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Bromsljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="45"/>
         <source>Sometimes black/red</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland svartröd</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="48"/>
         <source>PIN 7</source>
-        <translation type="unfinished">STIFT 7</translation>
+        <translation>STIFT 7</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="49"/>
         <source>Black</source>
-        <translation type="unfinished">Svart</translation>
+        <translation>Svart</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="50"/>
         <source>Left tail lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster bakljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="51"/>
         <source>Sometimes grey/black</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland gråsvart</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="54"/>
         <source>PIN 8</source>
-        <translation type="unfinished">STIFT 8</translation>
+        <translation>STIFT 8</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="55"/>
         <source>Grey</source>
-        <translation type="unfinished">Grå</translation>
+        <translation>Grå</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="56"/>
         <source>Reverse lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Backljus</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="60"/>
         <source>PIN 9</source>
-        <translation type="unfinished">STIFT 9</translation>
+        <translation>STIFT 9</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="61"/>
         <source>Brown/Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Brun/Blå</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="62"/>
         <source>Permanent power (+12V)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konstant plus (+12V)</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="63"/>
         <source>Sometimes orange or red</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland orange eller röd</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="67"/>
         <source>PIN 10</source>
-        <translation type="unfinished">STIFT 10</translation>
+        <translation>STIFT 10</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="68"/>
         <source>Yellow/Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Gulröd</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="69"/>
         <source>Switched supply (for fridge)</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlad strömförsörjning (för kylskåp)</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="70"/>
         <source>Sometimes black/red for darkgrey</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibland svartröd eller mörkgrå</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="73"/>
         <source>PIN 11</source>
-        <translation type="unfinished">STIFT 11</translation>
+        <translation>STIFT 11</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="74"/>
         <source>White/Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Svartvit</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="75"/>
         <source>Ground for pin 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Jord för stift 10</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="76"/>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="79"/>
         <source>PIN 12</source>
-        <translation type="unfinished">STIFT 12</translation>
+        <translation>STIFT 12</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="80"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="81"/>
         <source>Trailer Presence Detection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/iso11446.qml" line="82"/>
-        <source></source>
-        <translation type="unfinished"></translation>
+        <translation>Släpvagnsdetektering</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="85"/>
         <source>PIN 13</source>
-        <translation type="unfinished">STIFT 13</translation>
+        <translation>STIFT 13</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="86"/>
         <source>White/Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitröd</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="87"/>
         <source>Ground for pin 9</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/iso11446.qml" line="88"/>
-        <source></source>
-        <translation type="unfinished"></translation>
+        <translation>Jord för stift 9</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="97"/>
         <source>ISO 11446 car trailer pin assignments</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO 11446 stifttilldelning för släpvagnskontakt</translation>
     </message>
     <message>
         <location filename="../qml/pages/iso11446.qml" line="108"/>
         <source>Female connector</source>
-        <translation type="unfinished">Honanslutning</translation>
+        <translation>Honanslutning</translation>
     </message>
 </context>
 <context>
