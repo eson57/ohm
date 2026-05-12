@@ -17,7 +17,7 @@ Page {
         ListElement {
             pin: qsTr("PIN 2")
             col: qsTr("Orange")
-            title: qsTr("+3.3V)")
+            title: qsTr("+3.3V")
             description: qsTr("+3.3 VDC")
         }
         ListElement {
