@@ -125,8 +125,8 @@ Page {
         ListElement {
             pin: qsTr("PIN 20")
             col: qsTr("White")
-            title: qsTr("-5V")
-            description: qsTr("Optional (removed in newer ATX versions)")
+            title: qsTr("NC")
+            description: qsTr("-5V Not Connected (removed in newer ATX versions)")
         }
         ListElement {
             pin: qsTr("PIN 21")
